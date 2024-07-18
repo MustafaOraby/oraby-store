@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "seiko",
+    "image": "Grand-seiko.png"
+  },
+  {
+    "id": 2,
+    "title": "Hitachi",
+    "image": "Hitachi-logo.png"
+  },
+  {
+    "id": 3,
+    "title": "Sony",
+    "image": "Sony-logo.png"
+  },
+  {
+    "id": 4,
+    "title": "tiger",
+    "image": "tiger-logo.png"
+  },
+  {
+    "id": 5,
+    "title": "CANDY",
+    "image": "CANDY-Logo.png"
+  },
+  {
+    "id": 6,
+    "title": "Hione",
+    "image": "Hione-logo.png"
+  }
+]

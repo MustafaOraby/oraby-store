@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": " على أدوات المطبخ ",
+      "discount_percentage": "30",
+      "image": "discount_image_1.png"
+    },
+    {
+      "id": 2,
+      "title": "على أدوات المطبخ ",
+      "discount_percentage": "40",
+      "image": "discount_image_2.png"
+    },
+    {
+      "id": 3,
+      "title": " على أدوات المطبخ ",
+      "discount_percentage": "10",
+      "image": "discount_image_3.png"
+    },
+    {
+      "id": 4,
+      "title": " على أدوات المطبخ ",
+      "discount_percentage": "45",
+      "image": "discount_image_4.png"
+    },
+    {
+      "id": 5,
+      "title": " على أدوات المطبخ ",
+      "discount_percentage": "15",
+      "image": "discount_image_5.png"
+    }
+  ]
+  

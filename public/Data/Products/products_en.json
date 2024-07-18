@@ -1,0 +1,408 @@
+ [
+    {
+      "id": 1,
+      "name": "Samsung Fridge",
+      "products_type": "fridge",
+      "rating": 5,
+      "details": "18 cu.ft, Quick Cooling",
+      "image": "samsung_fridge.png",
+      "price": 12000
+    },
+    {
+      "id": 2,
+      "name": "LG Fridge",
+      "products_type": "fridge",
+      "rating": 3.5,
+      "details": "20 cu.ft, Energy Saver",
+      "image": "lg_fridge.png",
+      "price": 15000
+    },
+    {
+      "id": 3,
+      "name": "Toshiba Fridge",
+      "products_type": "fridge",
+      "rating": 4,
+      "details": "16 cu.ft, 3D Cooling",
+      "image": "toshiba_fridge.png",
+      "price": 11000
+    },
+    {
+      "id": 4,
+      "name": "Sharp Fridge",
+      "products_type": "fridge",
+      "rating": 3,
+      "details": "18 cu.ft, Antibacterial",
+      "image": "sharp_fridge.png",
+      "price": 13000
+    },
+    {
+      "id": 5,
+      "name": "Kiriazi Fridge",
+      "products_type": "fridge",
+      "rating": 4,
+      "details": "14 cu.ft, Large Freezer",
+      "image": "kiriazi_fridge.png",
+      "price": 10000
+    },
+    {
+      "id": 6,
+      "name": "Samsung Washing Machine",
+      "products_type": "washer",
+      "rating": 2.8,
+      "details": "8 kg, Front Load",
+      "image": "samsung_washer.png",
+      "price": 9000
+    },
+    {
+      "id": 7,
+      "name": "LG Washing Machine",
+      "products_type": "washer",
+      "rating": 4.6,
+      "details": "7 kg, Top Load",
+      "image": "lg_washer.png",
+      "price": 8500
+    },
+    {
+      "id": 8,
+      "name": "Toshiba Washing Machine",
+      "products_type": "washer",
+      "rating": 2.5,
+      "details": "6 kg, Front Load",
+      "image": "toshiba_washer.png",
+      "price": 8000
+    },
+    {
+      "id": 9,
+      "name": "Sharp Washing Machine",
+      "products_type": "washer",
+      "rating": 4.7,
+      "details": "9 kg, Top Load",
+      "image": "sharp_washer.png",
+      "price": 9500
+    },
+    {
+      "id": 10,
+      "name": "Kiriazi Washing Machine",
+      "products_type": "washer",
+      "rating": 4.4,
+      "details": "5 kg, Energy Saver",
+      "image": "kiriazi_washer.png",
+      "price": 7500
+    },
+    {
+      "id": 11,
+      "name": "Unionaire Cooker",
+      "products_type": "cooker",
+      "rating": 5,
+      "details": "5 Burners, Self Ignition",
+      "image": "unionaire_cooker.png",
+      "price": 7000
+    },
+    {
+      "id": 12,
+      "name": "Kiriazi Cooker",
+      "products_type": "cooker",
+      "rating": 4.4,
+      "details": "4 Burners, Energy Efficient",
+      "image": "kiriazi_cooker.png",
+      "price": 6500
+    },
+    {
+      "id": 13,
+      "name": "Technogas Cooker",
+      "products_type": "cooker",
+      "rating": 1.5,
+      "details": "6 Burners, Digital Control",
+      "image": "technogas_cooker.png",
+      "price": 8000
+    },
+    {
+      "id": 14,
+      "name": "Zanussi Cooker",
+      "products_type": "cooker",
+      "rating": 0.5,
+      "details": "5 Burners, Italian Design",
+      "image": "zanussi_cooker.png",
+      "price": 7500
+    },
+    {
+      "id": 15,
+      "name": "Universal Cooker",
+      "products_type": "cooker",
+      "rating": 4.3,
+      "details": "4 Burners, Full Safety",
+      "image": "universal_cooker.png",
+      "price": 6000
+    },
+    {
+      "id": 16,
+      "name": "Fresh Heater",
+      "products_type": "heater",
+      "rating": 4.5,
+      "details": "10 Liters, Electric",
+      "image": "fresh_heater.png",
+      "price": 3500
+    },
+    {
+      "id": 17,
+      "name": "Tornado Heater",
+      "products_type": "heater",
+      "rating": 4.6,
+      "details": "12 Liters, Gas",
+      "image": "tornado_heater.png",
+      "price": 4000
+    },
+    {
+      "id": 18,
+      "name": "Unionaire Heater",
+      "products_type": "heater",
+      "rating": 4.4,
+      "details": "15 Liters, Electric",
+      "image": "unionaire_heater.png",
+      "price": 4500
+    },
+    {
+      "id": 19,
+      "name": "Zanussi Heater",
+      "products_type": "heater",
+      "rating": 4.7,
+      "details": "10 Liters, Gas",
+      "image": "zanussi_heater.png",
+      "price": 3800
+    },
+    {
+      "id": 20,
+      "name": "Kiriazi Heater",
+      "products_type": "heater",
+      "rating": 4.3,
+      "details": "20 Liters, Electric",
+      "image": "kiriazi_heater.png",
+      "price": 5000
+    },
+    {
+      "id": 21,
+      "name": "Toshiba Fan",
+      "products_type": "fan",
+      "rating": 4.8,
+      "details": "Standing Fan, 3 Speeds",
+      "image": "toshiba_fan.png",
+      "price": 1200
+    },
+    {
+      "id": 22,
+      "name": "Fresh Fan",
+      "products_type": "fan",
+      "rating": 4.6,
+      "details": "Wall Fan, Quiet",
+      "image": "fresh_fan.png",
+      "price": 1000
+    },
+    {
+      "id": 23,
+      "name": "Tornado Fan",
+      "products_type": "fan",
+      "rating": 4.7,
+      "details": "Floor Fan, 4 Speeds",
+      "image": "tornado_fan.png",
+      "price": 1400
+    },
+    {
+      "id": 24,
+      "name": "Sharp Fan",
+      "products_type": "fan",
+      "rating": 4.5,
+      "details": "Ceiling Fan, Silent Operation",
+      "image": "sharp_fan.png",
+      "price": 1300
+    },
+    {
+      "id": 25,
+      "name": "Unionaire Fan",
+      "products_type": "fan",
+      "rating": 4.4,
+      "details": "Desk Fan, 3 Speeds",
+      "image": "unionaire_fan.png",
+      "price": 1100
+    },
+    {
+      "id": 26,
+      "name": "Casio Watch",
+      "products_type": "watch",
+      "rating": 4.6,
+      "details": "Digital, Water Resistant",
+      "image": "casio_watch.png",
+      "price": 1500
+    },
+    {
+      "id": 27,
+      "name": "Seiko Watch",
+      "products_type": "watch",
+      "rating": 4.7,
+      "details": "Automatic, Classic Design",
+      "image": "seiko_watch.png",
+      "price": 2000
+    },
+    {
+      "id": 28,
+      "name": "Rolex Watch",
+      "products_type": "watch",
+      "rating": 4.9,
+      "details": "Luxury Wristwatch",
+      "image": "rolex_watch.png",
+      "price": 50000
+    },
+    {
+      "id": 29,
+      "name": "Omega Watch",
+      "products_type": "watch",
+      "rating": 4.8,
+      "details": "Sports Wristwatch",
+      "image": "omega_watch.png",
+      "price": 25000
+    },
+    {
+      "id": 30,
+      "name": "Tissot Watch",
+      "products_type": "watch",
+      "rating": 4.5,
+      "details": "Chronograph, Modern Design",
+      "image": "tissot_watch.png",
+      "price": 1800
+    },
+    {
+      "id": 31,
+      "name": "Sony Headphones",
+      "products_type": "headphones",
+      "rating": 4.8,
+      "details": "Bluetooth, Noise Cancelling",
+      "image": "sony_headphones.png",
+      "price": 3500
+    },
+    {
+      "id": 32,
+      "name": "JBL Headphones",
+      "products_type": "headphones",
+      "rating": 4.6,
+      "details": "Earbuds, Clear Sound",
+      "image": "jbl_headphones.png",
+      "price": 3000
+    },
+    {
+      "id": 33,
+      "name": "Bose Headphones",
+      "products_type": "headphones",
+      "rating": 4.7,
+      "details": "Over-Ear, Surround Sound",
+      "image": "bose_headphones.png",
+      "price": 4000
+    },
+    {
+      "id": 34,
+      "name": "Beats Headphones",
+      "products_type": "headphones",
+      "rating": 4.5,
+      "details": "Sports, Stylish Design",
+      "image": "beats_headphones.png",
+      "price": 3200
+    },
+    {
+      "id": 35,
+      "name": "Apple Headphones",
+      "products_type": "headphones",
+      "rating": 4.9,
+      "details": "Wireless, Siri Integrated",
+      "image": "apple_headphones.png",
+      "price": 5000
+    },
+    {
+      "id": 36,
+      "name": "Samsung Microwave",
+      "products_type": "microwave",
+      "rating": 4.7,
+      "details": "30 Liters, Fast Heating",
+      "image": "samsung_microwave.png",
+      "price": 4500
+    },
+    {
+      "id": 37,
+      "name": "LG Microwave",
+      "products_type": "microwave",
+      "rating": 4.6,
+      "details": "25 Liters, Digital Control",
+      "image": "lg_microwave.png",
+      "price": 4000
+    },
+    {
+      "id": 38,
+      "name": "Sharp Microwave",
+      "products_type": "microwave",
+      "rating": 4.5,
+      "details": "28 Liters, Multiple Programs",
+      "image": "sharp_microwave.png",
+      "price": 4300
+    },
+    {
+      "id": 39,
+      "name": "Tornado Microwave",
+      "products_type": "microwave",
+      "rating": 4.4,
+      "details": "20 Liters, Quick Cooking",
+      "image": "tornado_microwave.png",
+      "price": 3800
+    },
+    {
+      "id": 40,
+      "name": "Unionaire Microwave",
+      "products_type": "microwave",
+      "rating": 4.3,
+      "details": "32 Liters, Modern Design",
+      "image": "unionaire_microwave.png",
+      "price": 4700
+    },
+    {
+      "id": 41,
+      "name": "Samsung TV",
+      "products_type": "tv",
+      "rating": 4.8,
+      "details": "55 inches, 4K",
+      "image": "samsung_tv.png",
+      "price": 12000
+    },
+    {
+      "id": 42,
+      "name": "LG TV",
+      "products_type": "tv",
+      "rating": 4.7,
+      "details": "65 inches, OLED",
+      "image": "lg_tv.png",
+      "price": 15000
+    },
+    {
+      "id": 43,
+      "name": "Sony TV",
+      "products_type": "tv",
+      "rating": 4.9,
+      "details": "75 inches, LED",
+      "image": "sony_tv.png",
+      "price": 18000
+    },
+    {
+      "id": 44,
+      "name": "Toshiba TV",
+      "products_type": "tv",
+      "rating": 4.6,
+      "details": "50 inches, FHD",
+      "image": "toshiba_tv.png",
+      "price": 10000
+    },
+    {
+      "id": 45,
+      "name": "Sharp TV",
+      "products_type": "tv",
+      "rating": 4.5,
+      "details": "60 inches, UHD",
+      "image": "sharp_tv.png",
+      "price": 13000
+    }
+  ]
+

@@ -1,0 +1,408 @@
+[
+    {
+      "id": 1,
+      "name": "ثلاجة سامسونج",
+      "products_type": "fridge",
+      "rating": 5,
+      "details": "ثلاجة 18 قدم، تبريد سريع",
+      "image": "samsung_fridge.png",
+      "price": 12000
+    },
+    {
+      "id": 2,
+      "name": "ثلاجة إل جي",
+      "products_type": "fridge",
+      "rating": 3.5,
+      "details": "ثلاجة 20 قدم، موفرة للطاقة",
+      "image": "lg_fridge.png",
+      "price": 15000
+    },
+    {
+      "id": 3,
+      "name": "ثلاجة توشيبا",
+      "products_type": "fridge",
+      "rating": 4,
+      "details": "ثلاجة 16 قدم، تبريد ثلاثي الأبعاد",
+      "image": "toshiba_fridge.png",
+      "price": 11000
+    },
+    {
+      "id": 4,
+      "name": "ثلاجة شارب",
+      "products_type": "fridge",
+      "rating": 3,
+      "details": "ثلاجة 18 قدم، مضادة للبكتيريا",
+      "image": "sharp_fridge.png",
+      "price": 13000
+    },
+    {
+      "id": 5,
+      "name": "ثلاجة كريازي",
+      "products_type": "fridge",
+      "rating": 4,
+      "details": "ثلاجة 14 قدم، فريزر واسع",
+      "image": "kiriazi_fridge.png",
+      "price": 10000
+    },
+    {
+      "id": 6,
+      "name": "غسالة سامسونج",
+      "products_type": "washer",
+      "rating": 2.8,
+      "details": "غسالة 8 كجم، تحميل أمامي",
+      "image": "samsung_washer.png",
+      "price": 9000
+    },
+    {
+      "id": 7,
+      "name": "غسالة إل جي",
+      "products_type": "washer",
+      "rating": 4.6,
+      "details": "غسالة 7 كجم، تحميل علوي",
+      "image": "lg_washer.png",
+      "price": 8500
+    },
+    {
+      "id": 8,
+      "name": "غسالة توشيبا",
+      "products_type": "washer",
+      "rating":2.5,
+      "details": "غسالة 6 كجم، تحميل أمامي",
+      "image": "toshiba_washer.png",
+      "price": 8000
+    },
+    {
+      "id": 9,
+      "name": "غسالة شارب",
+      "products_type": "washer",
+      "rating": 4.7,
+      "details": "غسالة 9 كجم، تحميل علوي",
+      "image": "sharp_washer.png",
+      "price": 9500
+    },
+    {
+      "id": 10,
+      "name": "غسالة كريازي",
+      "products_type": "washer",
+      "rating": 4.4,
+      "details": "غسالة 5 كجم، توفير للطاقة",
+      "image": "kiriazi_washer.png",
+      "price": 7500
+    },
+    {
+      "id": 11,
+      "name": "بوتوجاز يونيون اير",
+      "products_type": "cooker",
+      "rating": 5,
+      "details": "بوتوجاز 5 شعلات، إشعال ذاتي",
+      "image": "unionaire_cooker.png",
+      "price": 7000
+    },
+    {
+      "id": 12,
+      "name": "بوتوجاز كريازي",
+      "products_type": "cooker",
+      "rating": 4.4,
+      "details": "بوتوجاز 4 شعلات، استهلاك موفر",
+      "image": "kiriazi_cooker.png",
+      "price": 6500
+    },
+    {
+      "id": 13,
+      "name": "بوتوجاز تكنوجاز",
+      "products_type": "cooker",
+      "rating": 1.5,
+      "details": "بوتوجاز 6 شعلات، تحكم رقمي",
+      "image": "technogas_cooker.png",
+      "price": 8000
+    },
+    {
+      "id": 14,
+      "name": "بوتوجاز زانوسي",
+      "products_type": "cooker",
+      "rating": 0.5,
+      "details": "بوتوجاز 5 شعلات، تصميم إيطالي",
+      "image": "zanussi_cooker.png",
+      "price": 7500
+    },
+    {
+      "id": 15,
+      "name": "بوتوجاز يونيفرسال",
+      "products_type": "cooker",
+      "rating": 4.3,
+      "details": "بوتوجاز 4 شعلات، أمان كامل",
+      "image": "universal_cooker.png",
+      "price": 6000
+    },
+    {
+      "id": 16,
+      "name": "سخان فريش",
+      "products_type": "heater",
+      "rating": 4.5,
+      "details": "سخان 10 لتر، كهربائي",
+      "image": "fresh_heater.png",
+      "price": 3500
+    },
+    {
+      "id": 17,
+      "name": "سخان تورنيدو",
+      "products_type": "heater",
+      "rating": 4.6,
+      "details": "سخان 12 لتر، غاز",
+      "image": "tornado_heater.png",
+      "price": 4000
+    },
+    {
+      "id": 18,
+      "name": "سخان يونيون اير",
+      "products_type": "heater",
+      "rating": 4.4,
+      "details": "سخان 15 لتر، كهربائي",
+      "image": "unionaire_heater.png",
+      "price": 4500
+    },
+    {
+      "id": 19,
+      "name": "سخان زانوسي",
+      "products_type": "heater",
+      "rating": 4.7,
+      "details": "سخان 10 لتر، غاز",
+      "image": "zanussi_heater.png",
+      "price": 3800
+    },
+    {
+      "id": 20,
+      "name": "سخان كريازي",
+      "products_type": "heater",
+      "rating": 4.3,
+      "details": "سخان 20 لتر، كهربائي",
+      "image": "kiriazi_heater.png",
+      "price": 5000
+    },
+    {
+      "id": 21,
+      "name": "مروحة توشيبا",
+      "products_type": "fan",
+      "rating": 4.8,
+      "details": "مروحة عمودية، ثلاث سرعات",
+      "image": "toshiba_fan.png",
+      "price": 1200
+    },
+    {
+      "id": 22,
+      "name": "مروحة فريش",
+      "products_type": "fan",
+      "rating": 4.6,
+      "details": "مروحة حائط، هادئة",
+      "image": "fresh_fan.png",
+      "price": 1000
+    },
+    {
+      "id": 23,
+      "name": "مروحة تورنيدو",
+      "products_type": "fan",
+      "rating": 4.7,
+      "details": "مروحة أرضية، أربع سرعات",
+      "image": "tornado_fan.png",
+      "price": 1400
+    },
+    {
+      "id": 24,
+      "name": "مروحة شارب",
+      "products_type": "fan",
+      "rating": 4.5,
+      "details": "مروحة سقف، تشغيل هادئ",
+      "image": "sharp_fan.png",
+      "price": 1300
+    },
+    {
+      "id": 25,
+      "name": "مروحة يونيون اير",
+      "products_type": "fan",
+      "rating": 4.4,
+      "details": "مروحة مكتب، ثلاث سرعات",
+      "image": "unionaire_fan.png",
+      "price": 1100
+    },
+    {
+      "id": 26,
+      "name": "ساعة كاسيو",
+      "products_type": "watch",
+      "rating": 4.6,
+      "details": "ساعة رقمية، مقاومة للماء",
+      "image": "casio_watch.png",
+      "price": 1500
+    },
+    {
+      "id": 27,
+      "name": "ساعة سيكو",
+      "products_type": "watch",
+      "rating": 4.7,
+      "details": "ساعة أوتوماتيكية، تصميم كلاسيكي",
+      "image": "seiko_watch.png",
+      "price": 2000
+    },
+    {
+      "id": 28,
+      "name": "ساعة رولكس",
+      "products_type": "watch",
+      "rating": 4.9,
+      "details": "ساعة يد، فاخرة",
+      "image": "rolex_watch.png",
+      "price": 50000
+    },
+    {
+      "id": 29,
+      "name": "ساعة أوميجا",
+      "products_type": "watch",
+      "rating": 4.8,
+      "details": "ساعة يد، رياضية",
+      "image": "omega_watch.png",
+      "price": 25000
+    },
+    {
+      "id": 30,
+      "name": "ساعة تيسوت",
+      "products_type": "watch",
+      "rating": 4.5,
+      "details": "ساعة كرونوغراف، تصميم عصري",
+      "image": "tissot_watch.png",
+      "price": 1800
+    },
+    {
+      "id": 31,
+      "name": "سماعة سوني",
+      "products_type": "headphones",
+      "rating": 4.8,
+      "details": "سماعة بلوتوث، إلغاء الضوضاء",
+      "image": "sony_headphones.png",
+      "price": 3500
+    },
+    {
+      "id": 32,
+      "name": "سماعة جي بي إل",
+      "products_type": "headphones",
+      "rating": 4.6,
+      "details": "سماعة أذن، صوت نقي",
+      "image": "jbl_headphones.png",
+      "price": 3000
+    },
+    {
+      "id": 33,
+      "name": "سماعة بوس",
+      "products_type": "headphones",
+      "rating": 4.7,
+      "details": "سماعة فوق الأذن، صوت محيطي",
+      "image": "bose_headphones.png",
+      "price": 4000
+    },
+    {
+      "id": 34,
+      "name": "سماعة بيتس",
+      "products_type": "headphones",
+      "rating": 4.5,
+      "details": "سماعة رياضية، تصميم أنيق",
+      "image": "beats_headphones.png",
+      "price": 3200
+    },
+    {
+      "id": 35,
+      "name": "سماعة آبل",
+      "products_type": "headphones",
+      "rating": 4.9,
+      "details": "سماعة لاسلكية، مدمجة مع سيري",
+      "image": "apple_headphones.png",
+      "price": 5000
+    },
+    {
+      "id": 36,
+      "name": "ميكروويف سامسونج",
+      "products_type": "microwave",
+      "rating": 4.7,
+      "details": "ميكروويف 30 لتر، تسخين سريع",
+      "image": "samsung_microwave.png",
+      "price": 4500
+    },
+    {
+      "id": 37,
+      "name": "ميكروويف إل جي",
+      "products_type": "microwave",
+      "rating": 4.6,
+      "details": "ميكروويف 25 لتر، تحكم رقمي",
+      "image": "lg_microwave.png",
+      "price": 4000
+    },
+    {
+      "id": 38,
+      "name": "ميكروويف شارب",
+      "products_type": "microwave",
+      "rating": 4.5,
+      "details": "ميكروويف 28 لتر، برامج متعددة",
+      "image": "sharp_microwave.png",
+      "price": 4300
+    },
+    {
+      "id": 39,
+      "name": "ميكروويف تورنيدو",
+      "products_type": "microwave",
+      "rating": 4.4,
+      "details": "ميكروويف 20 لتر، طهي سريع",
+      "image": "tornado_microwave.png",
+      "price": 3800
+    },
+    {
+      "id": 40,
+      "name": "ميكروويف يونيون اير",
+      "products_type": "microwave",
+      "rating": 4.3,
+      "details": "ميكروويف 32 لتر، تصميم عصري",
+      "image": "unionaire_microwave.png",
+      "price": 4700
+    },
+    {
+      "id": 41,
+      "name": "شاشة سامسونج",
+      "products_type": "tv",
+      "rating": 4.8,
+      "details": "شاشة 55 بوصة، 4K",
+      "image": "samsung_tv.png",
+      "price": 12000
+    },
+    {
+      "id": 42,
+      "name": "شاشة إل جي",
+      "products_type": "tv",
+      "rating": 4.7,
+      "details": "شاشة 65 بوصة، OLED",
+      "image": "lg_tv.png",
+      "price": 15000
+    },
+    {
+      "id": 43,
+      "name": "شاشة سوني",
+      "products_type": "tv",
+      "rating": 4.9,
+      "details": "شاشة 75 بوصة، LED",
+      "image": "sony_tv.png",
+      "price": 18000
+    },
+    {
+      "id": 44,
+      "name": "شاشة توشيبا",
+      "products_type": "tv",
+      "rating": 4.6,
+      "details": "شاشة 50 بوصة، FHD",
+      "image": "toshiba_tv.png",
+      "price": 10000
+    },
+    {
+      "id": 45,
+      "name": "شاشة شارب",
+      "products_type": "tv",
+      "rating": 4.5,
+      "details": "شاشة 60 بوصة، UHD",
+      "image": "sharp_tv.png",
+      "price": 13000
+    }
+  ]
+

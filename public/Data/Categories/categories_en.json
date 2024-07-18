@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Refrigerators",
+    "image": "fridge.png"
+  },
+  {
+    "id": 2,
+      "title": "TVs",
+      "image": "tv.png"
+  },
+  {
+    "id": 3,
+    "title": "Cookers",
+    "image": "cooker.png"
+  },
+  {
+    "id": 4,
+    "title": "Heaters",
+    "image": "heater.png"
+  },
+  {
+    "id": 5,
+    "title": "Fans",
+    "image": "fan.png"
+  },
+  {
+    "id": 6,
+    "title": "Watches",
+    "image": "watch.png"
+  },
+  {
+    "id": 7,
+    "title": "Headphones",
+    "image": "headphones.png"
+  },
+  {
+    "id": 8,
+    "title": "Microwaves",
+    "image": "microwave.png"
+  },
+  {
+    "id": 9,
+
+    "title": "Washing Machines",
+    "image": "washer.png"
+  }
+]

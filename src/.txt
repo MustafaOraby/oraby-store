@@ -1,0 +1,25 @@
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــAppـــــــــــــــــــــــــــــــــــــ
+
+
+import Btn from "./Components/Btn";
+import { MdDarkMode } from "react-icons/md";
+import useI18n from "./Hooks/useI18n";
+import useTheme from "./Hooks/useTheme";
+
+function App() {
+  const t = useI18n();
+  const { changeTheme, theme } = useTheme();
+
+  return (
+    <div className={theme}>
+      <h2 className="flex  dark:bg-red-900  bg-gray-600">
+        {t("Welcome to React")}
+      </h2>
+      <Btn />
+      <MdDarkMode onClick={changeTheme} />
+    </div>
+  );
+}
+
+export default App;
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــAppـــــــــــــــــــــــــــــــــــــ
